@@ -4,7 +4,7 @@
 
 É muito bom tê-lo(a) aqui. Tenho certeza que você vai adorar este curso. ❤️
 
-## O que você vai aprender
+## O que aprendi nesse projeto !
 
 Durante o curso de testes automatizados com Cypress (básico), você vai aprender:
 
